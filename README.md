@@ -13,8 +13,8 @@
   <a href="https://www.linkedin.com/in/nabeelusmani1999/" style="text-decoration: none;">
     <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
   </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.kaggle.com/nabeelusmani" style="text-decoration: none;">
-    <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original.svg" />
+<a href="https://www.kaggle.com/nabeelusmani" style="text-decoration: none;" target="_blank">Visit my Kaggle Profile</a>
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original.svg" />
   </a>
 </p>
 
