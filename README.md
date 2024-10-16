@@ -85,13 +85,13 @@ Field of Interest:
 <br>
 <h2> <img src="https://iconape.com/wp-content/png_logo_vector/leetcode-logo-white-no-text.png" width="30" height="30"/>  &nbsp; LeetCode Progress </h2>
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/munsifjaved00?theme=unicorn" alt="LeetCode Progress">
+  <img src="https://leetcard.jacoblin.cool/nabeelusmani?theme=unicorn" alt="LeetCode Progress">
 </p>
 
 <p align="center">
   <a>Leetcode Solutions here:</a>
   </a>&nbsp;
-  <a href="https://github.com/munsifjaved/LeetCode-Solutions" style="text-decoration: none;">
+  <a href="https://github.com/Nabeel-Usmani/LeetCode_Solutions/tree/main" style="text-decoration: none;">
     <img src="https://iconmonstr.com/wp-content/g/gd/makefg.php?i=../releases/preview/2012/png/iconmonstr-github-1.png&r=255&g=255&b=255" width="25" height="25" style="vertical-align: middle; margin-top: 3px;"/>
   </a>
 </p>
