@@ -48,17 +48,7 @@ Field of Interest:
   <h2 style="display: flex; align-items: center; gap: 10px;">
     🏅 Certifications
   </h2>
-  <div style="display: flex; overflow-x: auto; padding: 10px; gap: 5px;">
-    <a href="https://learn.microsoft.com/api/credentials/share/en-us/MunsifJaweed-3344/A9326717DBE9099F?sharingId" target="_blank">
-      <img src="https://github.com/munsifjaved/Certifications_image/blob/main/Power%20BI%20Analyst.png?raw=true" alt="Power BI Data Analyst" width="150" height="150" >
-    </a>
-    <a href="https://learn.microsoft.com/api/credentials/share/en-us/MunsifJaweed-3344/88AD721B92031682?sharingId" target="_blank">
-      <img src="https://github.com/munsifjaved/Certifications_image/blob/main/Fabric%20Analytics%20Engineer.png?raw=true" alt="Fabric Analytics Engineer" width="150" height="150">
-    </a>
-    <a href="https://learn.microsoft.com/api/credentials/share/en-us/MunsifJaweed-3344/C7F615FB2245DDC0?sharingId" target="_blank">
-      <img src="https://github.com/munsifjaved/Certifications_image/blob/main/Azure%20AI%20Fundamentals.png?raw=true" alt="Azure AI Fundamentals" width="150" height="150">
-    </a>
-  </div>
+  
 </div>
 <br>
 <h2> 🚀 &nbsp; Tools I Have Used and Learned</h2>
